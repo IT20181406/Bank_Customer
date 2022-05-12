@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "BANKING_CUSTOMER", "BANKING_CUSTOMER\BANKING_CUSTOMER.dtproj", "{5B15779A-3B56-422B-A4B3-92F2D0B6EA2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B15779A-3B56-422B-A4B3-92F2D0B6EA2C}.Development|Default.ActiveCfg = Development
+		{5B15779A-3B56-422B-A4B3-92F2D0B6EA2C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFB264B9-8154-4F0C-8B6B-D9504CF2FF67}
+	EndGlobalSection
+EndGlobal
